@@ -1,3 +1,3 @@
 def square_array(numbers)
-  numbers.each do 
-    return #{number}*#{number}end
+  new_array []
+  numbers.each #{number}**2
