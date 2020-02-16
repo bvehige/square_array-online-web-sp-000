@@ -1,3 +1,3 @@
-def square_array(array)
-  # your code here
-end
+def square_array(numbers)
+  numbers.each do 
+    return #{number}*#{number}end
